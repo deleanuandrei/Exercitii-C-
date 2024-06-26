@@ -1,0 +1,435 @@
+# depslib dependency file v1.0
+1622223494 source:d:\tema 2 poo\main.cpp
+	<iostream>
+	"ISensor.h"
+	"IRoom.h"
+	"house.h"
+	"Living.h"
+	"Bathroom.h"
+	"Bedroom.h"
+	"Kitchen.h"
+	"Temperature.h"
+
+1622223372 source:d:\tema 2 poo\bathroom.cpp
+	<iostream>
+	"Bathroom.h"
+
+1622222280 source:d:\tema 2 poo\bedroom.cpp
+	<iostream>
+	"Bedroom.h"
+
+1622220324 source:d:\tema 2 poo\house.cpp
+	<iostream>
+	"house.h"
+
+1622223660 source:d:\tema 2 poo\kitchen.cpp
+	<iostream>
+	"Kitchen.h"
+
+1622223660 source:d:\tema 2 poo\living.cpp
+	<iostream>
+	"Living.h"
+
+1622209740 d:\tema 2 poo\living.h
+	"IRoom.h"
+	<vector>
+	<iostream>
+	<fstream>
+	<stdio.h>
+	"ISensor.h"
+	"Temperature.h"
+	"Humidity.h"
+	"Pressure.h"
+
+1622103947 d:\tema 2 poo\iroom.h
+
+1622143000 d:\tema 2 poo\temperature.h
+	"ISensor.h"
+	<time.h>
+	<stdlib.h>
+
+1622103947 d:\tema 2 poo\isensor.h
+
+1622143094 d:\tema 2 poo\humidity.h
+	"ISensor.h"
+	<time.h>
+	<stdlib.h>
+
+1622143094 d:\tema 2 poo\pressure.h
+	"ISensor.h"
+	<time.h>
+	<stdlib.h>
+
+1622142335 source:d:\tema 2 poo\humidity.cpp
+	<iostream>
+	"Humidity.h"
+
+1622142335 source:d:\tema 2 poo\pressure.cpp
+	<iostream>
+	"Pressure.h"
+
+1622220614 source:d:\tema 2 poo\temperature.cpp
+	<iostream>
+	"Temperature.h"
+
+1622220971 d:\tema 2 poo\bathroom.h
+	"IRoom.h"
+	<vector>
+	<iostream>
+	<fstream>
+	<stdio.h>
+	"ISensor.h"
+	"Temperature.h"
+	"Humidity.h"
+	"Pressure.h"
+
+1622223427 d:\tema 2 poo\bedroom.h
+	"IRoom.h"
+	<vector>
+	<iostream>
+	<fstream>
+	<stdio.h>
+	"ISensor.h"
+	"Temperature.h"
+	"Humidity.h"
+	"Pressure.h"
+
+1622220292 d:\tema 2 poo\house.h
+	<vector>
+	"IRoom.h"
+	<chrono>
+	<ctime>
+	<time.h>
+
+1622220971 d:\tema 2 poo\kitchen.h
+	"IRoom.h"
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<vector>
+	"ISensor.h"
+	"Temperature.h"
+	"Humidity.h"
+	"Pressure.h"
+
+1622225687 source:c:\tema 2 poo\bathroom.cpp
+	<iostream>
+	"Bathroom.h"
+
+1622220971 c:\tema 2 poo\bathroom.h
+	"IRoom.h"
+	<vector>
+	<iostream>
+	<fstream>
+	<stdio.h>
+	"ISensor.h"
+	"Temperature.h"
+	"Humidity.h"
+	"Pressure.h"
+
+1622225116 c:\tema 2 poo\iroom.h
+
+1622225116 c:\tema 2 poo\isensor.h
+
+1622225116 c:\tema 2 poo\temperature.h
+	"ISensor.h"
+	<time.h>
+	<stdlib.h>
+
+1622225116 c:\tema 2 poo\humidity.h
+	"ISensor.h"
+	<time.h>
+	<stdlib.h>
+
+1622225116 c:\tema 2 poo\pressure.h
+	"ISensor.h"
+	<time.h>
+	<stdlib.h>
+
+1622225687 source:c:\tema 2 poo\bedroom.cpp
+	<iostream>
+	"Bedroom.h"
+
+1622223427 c:\tema 2 poo\bedroom.h
+	"IRoom.h"
+	<vector>
+	<iostream>
+	<fstream>
+	<stdio.h>
+	"ISensor.h"
+	"Temperature.h"
+	"Humidity.h"
+	"Pressure.h"
+
+1622225687 source:c:\tema 2 poo\house.cpp
+	<iostream>
+	"house.h"
+
+1622220292 c:\tema 2 poo\house.h
+	<vector>
+	"IRoom.h"
+	<chrono>
+	<ctime>
+	<time.h>
+
+1622225116 source:c:\tema 2 poo\humidity.cpp
+	<iostream>
+	"Humidity.h"
+
+1622225687 source:c:\tema 2 poo\kitchen.cpp
+	<iostream>
+	"Kitchen.h"
+
+1622220971 c:\tema 2 poo\kitchen.h
+	"IRoom.h"
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<vector>
+	"ISensor.h"
+	"Temperature.h"
+	"Humidity.h"
+	"Pressure.h"
+
+1622224700 source:c:\tema 2 poo\main.cpp
+	<iostream>
+	"ISensor.h"
+	"IRoom.h"
+	"house.h"
+	"Living.h"
+	"Bathroom.h"
+	"Bedroom.h"
+	"Kitchen.h"
+	"Temperature.h"
+
+1622209740 c:\tema 2 poo\living.h
+	"IRoom.h"
+	<vector>
+	<iostream>
+	<fstream>
+	<stdio.h>
+	"ISensor.h"
+	"Temperature.h"
+	"Humidity.h"
+	"Pressure.h"
+
+1622225116 source:c:\tema 2 poo\pressure.cpp
+	<iostream>
+	"Pressure.h"
+
+1622225116 source:c:\tema 2 poo\temperature.cpp
+	<iostream>
+	"Temperature.h"
+
+1622225687 source:c:\tema 2 poo\living.cpp
+	<iostream>
+	"Living.h"
+
+1622231477 source:c:\users\delia\onedrive\desktop\tema 2 poo\main.cpp
+	<iostream>
+	"ISensor.h"
+	"Kitchen.h"
+	"Living.h"
+	"Bedroom.h"
+	"IRoom.h"
+	"house.h"
+	"Temperature.h"
+	"Bathroom.h"
+
+1622229382 c:\users\delia\onedrive\desktop\tema 2 poo\isensor.h
+
+1622229378 c:\users\delia\onedrive\desktop\tema 2 poo\iroom.h
+
+1622231323 c:\users\delia\onedrive\desktop\tema 2 poo\house.h
+	<vector>
+	<ctime>
+	"IRoom.h"
+
+1622231600 c:\users\delia\onedrive\desktop\tema 2 poo\living.h
+	<iostream>
+	<vector>
+	<fstream>
+	"IRoom.h"
+	"ISensor.h"
+	"Temperature.h"
+	"Pressure.h"
+	"Humidity.h"
+
+1622231434 c:\users\delia\onedrive\desktop\tema 2 poo\temperature.h
+	"ISensor.h"
+
+1622231245 c:\users\delia\onedrive\desktop\tema 2 poo\humidity.h
+	"ISensor.h"
+
+1622231434 c:\users\delia\onedrive\desktop\tema 2 poo\pressure.h
+	"ISensor.h"
+
+1622231397 c:\users\delia\onedrive\desktop\tema 2 poo\bathroom.h
+	<iostream>
+	<vector>
+	<fstream>
+	<stdio.h>
+	"ISensor.h"
+	"IRoom.h"
+	"Pressure.h"
+	"Humidity.h"
+	"Temperature.h"
+
+1622231366 c:\users\delia\onedrive\desktop\tema 2 poo\bedroom.h
+	<iostream>
+	<fstream>
+	<vector>
+	<stdio.h>
+	"ISensor.h"
+	"Temperature.h"
+	"Humidity.h"
+	"IRoom.h"
+	"Pressure.h"
+
+1622229223 c:\users\delia\onedrive\desktop\tema 2 poo\kitchen.h
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<vector>
+	"IRoom.h"
+	"ISensor.h"
+	"Temperature.h"
+	"Humidity.h"
+	"Pressure.h"
+
+1622231151 source:c:\users\delia\onedrive\desktop\tema 2 poo\pressure.cpp
+	<iostream>
+	"Pressure.h"
+
+1622231152 source:c:\users\delia\onedrive\desktop\tema 2 poo\temperature.cpp
+	<iostream>
+	"Temperature.h"
+
+1622233110 source:c:\users\delia\onedrive\desktop\tema 2 poo\bathroom.cpp
+	<iostream>
+	"Bathroom.h"
+
+1622233110 source:c:\users\delia\onedrive\desktop\tema 2 poo\bedroom.cpp
+	<iostream>
+	"Bedroom.h"
+
+1622231245 source:c:\users\delia\onedrive\desktop\tema 2 poo\humidity.cpp
+	<iostream>
+	"Humidity.h"
+
+1622233110 source:c:\users\delia\onedrive\desktop\tema 2 poo\kitchen.cpp
+	<iostream>
+	"Kitchen.h"
+
+1622233110 source:c:\users\delia\onedrive\desktop\tema 2 poo\living.cpp
+	<iostream>
+	"Living.h"
+
+1622231434 source:c:\users\delia\onedrive\desktop\tema 2 poo\house.cpp
+	<iostream>
+	"house.h"
+
+1622233110 source:c:\users\delia\onedrive\desktop\facultate\sem2\pclp2\deleanuandrei-cristiantema2\bathroom.cpp
+	<iostream>
+	"Bathroom.h"
+
+1622231397 c:\users\delia\onedrive\desktop\facultate\sem2\pclp2\deleanuandrei-cristiantema2\bathroom.h
+	<iostream>
+	<vector>
+	<fstream>
+	<stdio.h>
+	"ISensor.h"
+	"IRoom.h"
+	"Pressure.h"
+	"Humidity.h"
+	"Temperature.h"
+
+1622229382 c:\users\delia\onedrive\desktop\facultate\sem2\pclp2\deleanuandrei-cristiantema2\isensor.h
+
+1622229378 c:\users\delia\onedrive\desktop\facultate\sem2\pclp2\deleanuandrei-cristiantema2\iroom.h
+
+1622231434 c:\users\delia\onedrive\desktop\facultate\sem2\pclp2\deleanuandrei-cristiantema2\pressure.h
+	"ISensor.h"
+
+1622231245 c:\users\delia\onedrive\desktop\facultate\sem2\pclp2\deleanuandrei-cristiantema2\humidity.h
+	"ISensor.h"
+
+1622231434 c:\users\delia\onedrive\desktop\facultate\sem2\pclp2\deleanuandrei-cristiantema2\temperature.h
+	"ISensor.h"
+
+1622233110 source:c:\users\delia\onedrive\desktop\facultate\sem2\pclp2\deleanuandrei-cristiantema2\bedroom.cpp
+	<iostream>
+	"Bedroom.h"
+
+1622231366 c:\users\delia\onedrive\desktop\facultate\sem2\pclp2\deleanuandrei-cristiantema2\bedroom.h
+	<iostream>
+	<fstream>
+	<vector>
+	<stdio.h>
+	"ISensor.h"
+	"Temperature.h"
+	"Humidity.h"
+	"IRoom.h"
+	"Pressure.h"
+
+1622231434 source:c:\users\delia\onedrive\desktop\facultate\sem2\pclp2\deleanuandrei-cristiantema2\house.cpp
+	<iostream>
+	"house.h"
+
+1622231323 c:\users\delia\onedrive\desktop\facultate\sem2\pclp2\deleanuandrei-cristiantema2\house.h
+	<vector>
+	<ctime>
+	"IRoom.h"
+
+1622231245 source:c:\users\delia\onedrive\desktop\facultate\sem2\pclp2\deleanuandrei-cristiantema2\humidity.cpp
+	<iostream>
+	"Humidity.h"
+
+1622233110 source:c:\users\delia\onedrive\desktop\facultate\sem2\pclp2\deleanuandrei-cristiantema2\kitchen.cpp
+	<iostream>
+	"Kitchen.h"
+
+1622229223 c:\users\delia\onedrive\desktop\facultate\sem2\pclp2\deleanuandrei-cristiantema2\kitchen.h
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<vector>
+	"IRoom.h"
+	"ISensor.h"
+	"Temperature.h"
+	"Humidity.h"
+	"Pressure.h"
+
+1622233110 source:c:\users\delia\onedrive\desktop\facultate\sem2\pclp2\deleanuandrei-cristiantema2\living.cpp
+	<iostream>
+	"Living.h"
+
+1622231600 c:\users\delia\onedrive\desktop\facultate\sem2\pclp2\deleanuandrei-cristiantema2\living.h
+	<iostream>
+	<vector>
+	<fstream>
+	"IRoom.h"
+	"ISensor.h"
+	"Temperature.h"
+	"Pressure.h"
+	"Humidity.h"
+
+1622231477 source:c:\users\delia\onedrive\desktop\facultate\sem2\pclp2\deleanuandrei-cristiantema2\main.cpp
+	<iostream>
+	"ISensor.h"
+	"Kitchen.h"
+	"Living.h"
+	"Bedroom.h"
+	"IRoom.h"
+	"house.h"
+	"Temperature.h"
+	"Bathroom.h"
+
+1622231151 source:c:\users\delia\onedrive\desktop\facultate\sem2\pclp2\deleanuandrei-cristiantema2\pressure.cpp
+	<iostream>
+	"Pressure.h"
+
+1622231152 source:c:\users\delia\onedrive\desktop\facultate\sem2\pclp2\deleanuandrei-cristiantema2\temperature.cpp
+	<iostream>
+	"Temperature.h"
+
