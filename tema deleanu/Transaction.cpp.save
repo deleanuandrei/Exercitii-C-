@@ -1,0 +1,20 @@
+#include "Transaction.h"
+#include <iostream>
+#include <string>
+
+using namespace std;
+
+Transaction::Transaction(string sender, string recipient, double quantity){
+    txSender = sender;
+    txRecipient = recipient;
+    txQuantity = quantity;
+}
+string Transaction::getTxSender(){
+    return txSender;
+}
+string Transaction::getTxRecipient(){
+    return txRecipient;
+}
+string Transaction::getTxQuantity(){
+    return txQuantity;
+}

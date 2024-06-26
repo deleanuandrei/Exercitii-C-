@@ -1,0 +1,19 @@
+#ifndef TRANSACTION_H
+#define TRANSACTION
+#include <string>
+
+using namespace std;
+
+class Transaction{
+public:
+    Transaction (string , string , double quantity);
+    string getTxSender();
+    string getTxRecipient();
+    double getTxQuantity();
+private:
+    string txSender;
+    string txRecipient;
+    double txQuantity;
+
+};
+#endif // TRANSACTION_H

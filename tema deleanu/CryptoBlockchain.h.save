@@ -1,0 +1,13 @@
+#ifndef CRYPTOBLOCKCHAIN_H
+#define CRYPTOBLOCKCHAIN_H
+
+using namespace std;
+
+class CryptoBlock:public CryptoBlock{
+public:
+    friend ostream& operator<<(ostream& o, CryptoBlockchain& bc);
+    CryptoBlockchain():CryptoBlock(0, "0", ",", ",", 0);
+    void addNewBlock(string sender, string recipient, double quantity);
+    vector<Cr
+};
+#endif // CRYPTOBLOCKCHAIN_H

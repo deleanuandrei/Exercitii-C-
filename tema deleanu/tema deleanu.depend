@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1618945311 source:e:\c++\tema deleanu\transaction.cpp
+	"Transaction.h"
+	<iostream>
+	<string>
+
+1618947288 e:\c++\tema deleanu\transaction.h
+	<string>
+
+1618945311 source:c:\users\delia\onedrive\desktop\facultate\sem2\pclp2\tema deleanu\transaction.cpp
+	"Transaction.h"
+	<iostream>
+	<string>
+
+1618947288 c:\users\delia\onedrive\desktop\facultate\sem2\pclp2\tema deleanu\transaction.h
+	<string>
+

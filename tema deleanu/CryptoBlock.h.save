@@ -1,0 +1,37 @@
+#ifndef CRYPTOBLOCK_H
+#define CRYPTOBLOCK_H
+#include <string>
+
+using namespace std;
+
+class CryptoBlock
+{
+public:
+    CryptoBlock (int ix, string prevHash, string sender, string recipient, double quantity);
+    int getIndex();
+    string getTimeStamp();
+    string getPreviousBlockHash();
+    string getBlockHask();
+    Transaction getTx();
+private:
+    string calculateHash()
+    {
+        hash<string> str_hash;
+        return to_string(str_hash(timeStamp + previousBlockHash
+                                  + getTx().getTxSender() + getTx().getTxRecipient()
+                                  + to_string(getTx().getTxQuantity())));
+    }
+    string now()
+    {
+        time_t t = time(0);
+        string str = ctime(&t);
+        str.erase(std::remove(str.begin(), str.end(), '\n'), str.end());
+        return str;
+    }
+    int index;
+    string timeStamp;
+    string blockH
+    Transaction tx;
+};
+#endif // TRANSACTION_H
+

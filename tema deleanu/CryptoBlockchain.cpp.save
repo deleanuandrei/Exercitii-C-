@@ -1,0 +1,20 @@
+#include "CryptoBlockchain.h"
+#include <iostream>
+
+using namespace std;
+
+CryptoBlockchain::CryptoBlock(0, "0", ",", ",", 0)
+{
+    chain.push_back(CryptoBlock(0, "0", ",", ",", 0));
+}
+void CryptoBlockchain:: addNewBlock(string sender, string recipient, double qunatity)
+{
+    chain.push_back(CryptoBlock(getLastIndex(), getLastHash, sender, recipient, quantity));
+}
+vector<CryptoBlock> getChain()
+{
+    return chain;
+}
+ostream& operator<<(ostream&o, CryptoBlock& b){
+    o<<"
+}

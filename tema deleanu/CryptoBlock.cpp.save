@@ -1,0 +1,15 @@
+#include "CryptoBlock.h"
+#include <iostream>
+
+using namespace std;
+
+CryptoBlock::CryptoBlock(int ix, string prevHash, string sender, string recipient, double quantity):tx(sender, recipient, quantity){
+    index = ix;
+    previousBlockHash = prevHash;
+    blockHash = calculateHash;
+    timeStamp = now();
+}
+int CryptoBlock::getIndex(){
+    return index;
+}
+string CryptoBlock::getTime
